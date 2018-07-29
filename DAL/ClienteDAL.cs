@@ -18,7 +18,7 @@ namespace DAL
             EntityKey key;
             object originalItem;
 
-            using (cadastroEntities = new CadastroEntities())
+            using (cadastroEntities = new CadastroEntities()) 
             {
                  var resultado = cadastroEntities.Clientes.SingleOrDefault(c=>c.id == registro.id);
                   if (resultado != null)
