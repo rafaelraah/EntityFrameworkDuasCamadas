@@ -1,0 +1,12 @@
+c:\users\raah\source\repos\EntityFrameworkEmCamadas\DAL\bin\Debug\DAL.dll.config
+c:\users\raah\source\repos\EntityFrameworkEmCamadas\DAL\bin\Debug\DAL.dll
+c:\users\raah\source\repos\EntityFrameworkEmCamadas\DAL\bin\Debug\DAL.pdb
+c:\users\raah\source\repos\EntityFrameworkEmCamadas\DAL\bin\Debug\EntityFramework.dll
+c:\users\raah\source\repos\EntityFrameworkEmCamadas\DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\raah\source\repos\EntityFrameworkEmCamadas\DAL\bin\Debug\EntityFramework.xml
+c:\users\raah\source\repos\EntityFrameworkEmCamadas\DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\raah\source\repos\EntityFrameworkEmCamadas\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+c:\users\raah\source\repos\EntityFrameworkEmCamadas\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+c:\users\raah\source\repos\EntityFrameworkEmCamadas\DAL\obj\Debug\DAL.csproj.CopyComplete
+c:\users\raah\source\repos\EntityFrameworkEmCamadas\DAL\obj\Debug\DAL.dll
+c:\users\raah\source\repos\EntityFrameworkEmCamadas\DAL\obj\Debug\DAL.pdb

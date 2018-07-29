@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "EntityFrameworkEmCamadas\UI.csproj", "{54D4C474-CE4D-4A40-857B-D66DFA9E842C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{47F6266C-C403-40FC-A033-A0579CCAA028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54D4C474-CE4D-4A40-857B-D66DFA9E842C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D4C474-CE4D-4A40-857B-D66DFA9E842C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D4C474-CE4D-4A40-857B-D66DFA9E842C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D4C474-CE4D-4A40-857B-D66DFA9E842C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47F6266C-C403-40FC-A033-A0579CCAA028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F6266C-C403-40FC-A033-A0579CCAA028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F6266C-C403-40FC-A033-A0579CCAA028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F6266C-C403-40FC-A033-A0579CCAA028}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {197517C8-F242-48C3-A1F3-E4466EBC9370}
+	EndGlobalSection
+EndGlobal
